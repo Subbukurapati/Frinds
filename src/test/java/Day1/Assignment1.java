@@ -22,6 +22,7 @@ public class Assignment1 {
 		WebDriver driver=new FirefoxDriver();
 		driver.manage().window().maximize();
 		// 1. Navigate to the FitPeo Homepage
+		
 		driver.get("https://www.fitpeo.com/");
 		
 		//2. Navigate to the Revenue Calculator Page:
